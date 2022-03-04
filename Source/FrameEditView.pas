@@ -439,7 +439,7 @@ begin
 //  RecentFiles := TStringList.Create;
   MaxRecents := 1;   //Inicia con 1
   //guarda parámetros
-  nomDef := nomDef0;
+  namDef := nomDef0;
   extDef := extDef0;
   NewFile;   //Inicia editor con archivo vacío
   ///////////////////////////////////////////////////////////////
